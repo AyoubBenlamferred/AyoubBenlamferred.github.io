@@ -11,21 +11,16 @@ body {
   background-color: #000;
   color: #333;
   font-weight: bold;
-
-  background-image: url('image/img3.jpg');
+  background-image: url('img/img3.jpg');
 
 }
 
 
 
-
-
-
-
-
-
 /* En-tête */
 header {
+
+
   background-color: #35a7ff;
   color: white;
   padding: 40px 0;
@@ -33,7 +28,7 @@ header {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 
-  background-image: url(''), url('');
+
   background-position: left top, right top;
   /* Positionner les images */
   background-repeat: no-repeat, no-repeat;
@@ -41,10 +36,9 @@ header {
   background-size: 15%, 15%;
   /* Ajuster la taille des images (ici, 25% de la largeur) */
 
-
+  background-image: url('img/img2.jpg'), url('img/img1.jpg');
+    /* Deux images */
 }
-
-
 
 
 header h1 {
@@ -185,17 +179,17 @@ form button:hover {
 /* Footer */
 footer {
   background-color: #35a7ff;
-  color: white;
+  color: #D2DBA9;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   position: relative;
   bottom: 0;
   width: 100%;
   font-size: 1rem;
 }
-footer a{
 
-  color: white;
-    
+footer a {
 
+  color: white
+  ;
 }
