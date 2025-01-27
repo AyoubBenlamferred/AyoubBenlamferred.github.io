@@ -11,45 +11,9 @@ body {
   background-color: #000;
   color: #333;
   font-weight: bold;
+
   background-image: url('img3.jpg');
-}
 
-.mentions-legales {
-  line-height: 1.6;
-  margin: 20px;
-  padding: 0;
-  background-color: #f9f9f9;
-}
-
-h1 {
-  color: #333;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  background: #fff;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-
-/* Footer */
-footer {
-  background-color: #35a7ff;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  font-size: 1rem;
-}
-
-footer a {
-
-  color: white;
 }
 
 
@@ -69,7 +33,7 @@ header {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 
-background-image: url(''), url('');
+  background-image: url(''), url('');
   background-position: left top, right top;
   /* Positionner les images */
   background-repeat: no-repeat, no-repeat;
@@ -229,7 +193,6 @@ footer {
   width: 100%;
   font-size: 1rem;
 }
-
 footer a{
 
   color: white;
