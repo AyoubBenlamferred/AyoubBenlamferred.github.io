@@ -182,7 +182,7 @@ footer {
   text-align: center;
   margin-top: 40px;
   padding: 20px;
-  background-color: #2980B9;
+  background-color: #35a7ff;
   color: white;
   font-size: 16px;
   border-radius: 10px;
@@ -248,7 +248,7 @@ footer a {
     }
 
     h2 {
-      color: #2980B9;
+      color: #35a7ff;
       font-size: 24px;
       margin-top: 20px;
     }
@@ -262,6 +262,62 @@ footer a {
     .section {
       margin-bottom: 20px;
       padding: 15px;
-      border-left: 4px solid #2980B9;
+      border-left: 4px solid #35a7ff;
       background: #f9f9f9;
     }
+
+
+
+
+        /* Section Veille Technologique */
+        #veille-technologique {
+          background-color: #d4d4d4;
+          max-width: 900px;
+          margin: auto;
+          padding: 30px;
+          border: 1px solid #ccc;
+          border-radius: 10px;
+          background-color: white;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          margin-top: 40px;
+        }
+
+        #veille-technologique h1 {
+          color: #E67E22;
+          font-size: 32px;
+          text-align: center;
+          margin-bottom: 20px;
+        }
+
+        #veille-technologique h2 {
+          color: #35a7ff;
+          font-size: 24px;
+          margin-top: 20px;
+        }
+
+        #veille-technologique p {
+          font-size: 18px;
+          line-height: 1.6;
+          color: #333;
+        }
+
+        #veille-technologique .section-content {
+
+          padding: 15px;
+          background: #f9f9f9;
+        }
+
+        #veille-technologique .section-content h2,
+        #veille-technologique .section-content p {
+          margin-bottom: 20px;
+        }
+
+        #veille-technologique .section-content p {
+          color: #333;
+        }
+
+        #veille-technologique .section-content{
+        background-color: #d4d4d4;
+                             }
+
+                             
