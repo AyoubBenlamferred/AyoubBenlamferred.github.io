@@ -231,12 +231,12 @@ footer a {
     }
 
     .mentions-legales {
+
       max-width: 900px;
       margin: auto;
       padding: 30px;
       border: 1px solid #ccc;
-      border-radius: 10px;
-      background-color: #ffffff;
+      border-radius: 10px;;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
@@ -248,7 +248,7 @@ footer a {
     }
 
     h2 {
-      color: #35a7ff;
+      color: #E67E22;
       font-size: 24px;
       margin-top: 20px;
     }
@@ -260,6 +260,7 @@ footer a {
     }
 
     .section {
+
       margin-bottom: 20px;
       padding: 15px;
       border-left: 4px solid #35a7ff;
@@ -319,5 +320,3 @@ footer a {
         #veille-technologique .section-content{
         background-color: #d4d4d4;
                              }
-
-                             
